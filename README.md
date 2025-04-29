@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **ClubConnect**
  
- 🌱 I’m currently learning **Tailwind**
+<!-- 🌱 I’m currently learning **Tailwind**-->
 
 
  </div>
